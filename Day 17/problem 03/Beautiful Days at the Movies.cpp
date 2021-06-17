@@ -21,6 +21,7 @@ int main()
           // rev_num=0;
        }
     }
+    
     cout<<c;
     return 0;
 }
