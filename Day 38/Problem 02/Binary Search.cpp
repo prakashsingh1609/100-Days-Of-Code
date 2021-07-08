@@ -1,7 +1,9 @@
+// C++ program to implement recursive Binary Search
+
 #include <bits/stdc++.h>
 using namespace std;
 
-// C++ program to implement recursive Binary Search
+
 
 
 // A recursive binary search function. It returns
