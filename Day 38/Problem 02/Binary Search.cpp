@@ -3,9 +3,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
-
-
 // A recursive binary search function. It returns
 // location of x in given array arr[l..r] is present,
 // otherwise -1
