@@ -4,9 +4,6 @@
 using namespace std;
 
 
- // } Driver Code Ends
-
-
 //User function Template for C++
 
 // Function to check power of two
