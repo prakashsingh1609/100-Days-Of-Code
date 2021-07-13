@@ -1,4 +1,4 @@
-// { Driver Code Starts Initial Template for C++
+//  Driver Code Starts Initial Template for C++
 #include <iostream>
 using namespace std;
 
